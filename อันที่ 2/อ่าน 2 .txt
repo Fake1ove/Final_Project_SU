@@ -1,0 +1,8 @@
+1. เอาไฟล์ espnow_master_send_2 ลง ATmega 
+2. เอาไฟล์ espnow_slaves_reseive ลง esp8266 สีดำ
+3. เอาไฟล์ espnow_slaves_reseive_2 ลง esp8266 สีเหลือง
+
+ผลที่ต้องการ
+esp8266  สีเหลือง ติดแค่ 1 อัน
+
+* เอา easyvr ออกก่อน อัพโหลด *

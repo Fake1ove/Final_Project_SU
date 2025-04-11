@@ -1,0 +1,7 @@
+1. เอาไฟล์ espnow_master_send ลง ATmega 
+2.เอาไฟล์ espnow_slaves_reseive ลง esp8266 ลง 2 ตัว
+
+ผลที่ต้องการ
+esp 8266 2 ตัวไฟต้องติดทั้ง 2
+
+* เอา easyvr ออกก่อน อัพโหลด *
